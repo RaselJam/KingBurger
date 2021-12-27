@@ -1,7 +1,7 @@
 # KingBurger
 
 # Description :
- A full React SPA application which touches these topics :
+ A full React Single Page application which touches these topics :
  - Basic Routing and Authentification
  - Class based Components
  - The Composibility by using Higher order Componnets
